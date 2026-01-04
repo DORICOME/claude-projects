@@ -1,0 +1,72 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Personal files and directories
+.CFUserTextEncoding
+.apm/
+.avalanche-cli/
+.bash_*
+.cache/
+.cargo/
+.claude*
+.config/
+.cups/
+.electrum/
+.gitconfig
+.local/
+.mining-cli/
+.node_repl_history
+.nodebrew/
+.npm/
+.nvm/
+.profile
+.rustup/
+.ssh/
+.vim/
+.viminfo
+.yarnrc
+.zprofile
+.zsh_*
+.zshenv
+.zshrc
+Applications/
+ClaudeProjects/
+Creative Cloud Files*/
+Desktop/
+Downloads/
+Library/
+Local Sites/
+Movies/
+Music/
+Pictures/
+Public/
+StackUp/
+bin/
+cardano-*/
+gLiveView_test.sh
+ledger/
+locli_*/
+smartcontract/
+trace-dispatcher-examples_*/
+tx-generator_*/
+unchain/
+unit_*/
+ver*/
+workshop/
