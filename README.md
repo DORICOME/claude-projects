@@ -31,6 +31,7 @@ python3 -m http.server 8000
 ```
 
 その後、ブラウザで以下のURLを開く:
+
 ```
 http://localhost:8000
 ```
